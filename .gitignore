@@ -6,12 +6,6 @@ tmp
 /out-tsc
 out-tsc
 
-*.js
-!jest.config.js
-!karma.conf.js
-!tailwind.config.js
-*.d.ts
-
 # dependencies
 node_modules
 
